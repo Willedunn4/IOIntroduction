@@ -1,0 +1,15 @@
+C:\Users\wille\source\repos\IOIntroduction\bin\Debug\net6.0\IOIntroduction.exe
+C:\Users\wille\source\repos\IOIntroduction\bin\Debug\net6.0\IOIntroduction.deps.json
+C:\Users\wille\source\repos\IOIntroduction\bin\Debug\net6.0\IOIntroduction.runtimeconfig.json
+C:\Users\wille\source\repos\IOIntroduction\bin\Debug\net6.0\IOIntroduction.dll
+C:\Users\wille\source\repos\IOIntroduction\bin\Debug\net6.0\IOIntroduction.pdb
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\IOIntroduction.csproj.AssemblyReference.cache
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\IOIntroduction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\IOIntroduction.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\IOIntroduction.AssemblyInfo.cs
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\IOIntroduction.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\IOIntroduction.dll
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\refint\IOIntroduction.dll
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\IOIntroduction.pdb
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\IOIntroduction.genruntimeconfig.cache
+C:\Users\wille\source\repos\IOIntroduction\obj\Debug\net6.0\ref\IOIntroduction.dll
